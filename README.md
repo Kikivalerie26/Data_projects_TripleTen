@@ -3,7 +3,7 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
 | Project number | Title | Description |
-| :-----------: | ----------- |----------- |
+| :-------: | ------ |--------|
 | 1 | Manhattan Vacation Rental Market| The project task was to Analyzed Airbnb data to identify the most profitable neighborhoods and property types for vacation rental investment in Manhattan. |
 | 2 | Zuber Ride Analysis| The project task was to focus on analyzing ride-sharing patterns for Zuber, a new ride-hailing company launching in Chicago.  |
 | 3 | Event Log Analysis| The project task was to focus on analyzing raw user activity logs from an e-commerce website to extract meaningful business metrics. |
