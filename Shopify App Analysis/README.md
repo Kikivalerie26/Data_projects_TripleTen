@@ -1,6 +1,6 @@
 # Shopify App - Business Analytics Project
 
-Welcome to the Shopify App Business Analytics Project!  
+
 This project focuses on analyzing raw transaction logs to build a **conversion funnel** and conduct **cohort retention analysis** for an e-commerce platform.  
 It was completed as part of a junior analyst onboarding project.
 
