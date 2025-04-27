@@ -30,7 +30,6 @@ The main strategic challenges Fresh Beats faces are:
 ## How to Access the Report
 You can view the completed report [here](https://docs.google.com/document/d/1jHhNQQjvMA8zQlNE0_d3lG0pfcRKpmbm6cG6okpD1PY/edit?usp=sharing).
 
-> **Note:** Please ensure you have access permissions (set sharing settings to "Anyone with the link can view").
 
 ## Skills Demonstrated
 - Business Intelligence Reporting
