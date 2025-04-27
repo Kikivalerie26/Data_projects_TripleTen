@@ -1,6 +1,6 @@
-# 🏙️ Manhattan Airbnb Vacation Rental Market Analysis
+#  Manhattan Airbnb Vacation Rental Market Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes the **Manhattan Airbnb vacation rental market** to help guide investment decisions on **neighborhoods** and **property sizes** (number of bedrooms).  
 
@@ -12,7 +12,7 @@ The project includes **data cleaning**, **pivot table analysis**, **revenue esti
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File Name | Description |
 | :--- | :--- |
@@ -20,7 +20,7 @@ The project includes **data cleaning**, **pivot table analysis**, **revenue esti
 
 ---
 
-## 📚 Requirements
+##  Requirements
 
 - **Software**: Microsoft Excel (2016 or newer) or Google Sheets
 - **Skills Needed**:
@@ -32,7 +32,7 @@ The project includes **data cleaning**, **pivot table analysis**, **revenue esti
 
 ---
 
-## 🧹 Data Cleaning Process
+##  Data Cleaning Process
 
 All data cleaning steps are documented in the `Change Log` sheet.
 
@@ -49,7 +49,7 @@ All data cleaning steps are documented in the `Change Log` sheet.
 
 ---
 
-## 📊 Analysis Overview
+##  Analysis Overview
 
 ### 1. Most Attractive Neighborhoods
 - **Top 3**:  
@@ -59,7 +59,7 @@ All data cleaning steps are documented in the `Change Log` sheet.
 
 - **Top 10 Neighborhoods** identified using `number_of_reviews_ltm`.
 
-- 📈 **Bar chart** created showing the number of reviews for top 10 neighborhoods.
+-  **Bar chart** created showing the number of reviews for top 10 neighborhoods.
 
 ---
 
