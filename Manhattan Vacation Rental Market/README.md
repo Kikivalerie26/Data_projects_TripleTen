@@ -88,7 +88,7 @@ All data cleaning steps are documented in the `Change Log` sheet.
 
 ---
 
-## 📌 Assumptions
+## Assumptions
 - Data only reflects the various fields influencing the Manhattan vacation rental market 
 - Data was collected from NYC AirBnB
 - Reviews are used as a proxy for rental frequency.
@@ -97,7 +97,7 @@ All data cleaning steps are documented in the `Change Log` sheet.
 
 ---
 
-## How to Reproduce the Project
+## Reproduction of the Project
 
 1. Clean the `neighborhood` and `bedrooms` columns.
 2. Create pivot tables:
