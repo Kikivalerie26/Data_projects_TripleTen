@@ -1,4 +1,4 @@
-📚 Requirements
+Requirements
 Software:
 Google Sheets
 
