@@ -16,7 +16,7 @@ The project includes **data cleaning**, **pivot table analysis**, **revenue esti
 
 | File Name | Description |
 | :--- | :--- |
-| `nyc_airbnb_data_v2_Sprint 1_PROJECT.xlsx` | Full analysis workbook including raw data, cleaned data, pivot tables, charts, and documentation. |
+| [`nyc_airbnb_data_v2_Sprint 1_PROJECT.xlsx`](https://docs.google.com/spreadsheets/d/1YScAZJONWT4BTfsl9qeRYACEEtXcUSM4SdebqXsHXtI/edit?usp=sharing) | Full analysis workbook including raw data, cleaned data, pivot tables, charts, and documentation. |
 
 ---
 
