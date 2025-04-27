@@ -1,15 +1,13 @@
 📚 Requirements
 Software:
-Microsoft Excel (2016 or newer) OR Google Sheets
+Google Sheets
 
-(Optional) Tableau or Power BI (for additional data visualization)
-
-Skills Needed:
+Skills:
 Basic Data Cleaning (e.g., trimming spaces, handling missing values)
 
 Pivot Table creation
 
-Excel Formulas: IF(), SUMIF(), VLOOKUP() (optional)
+Excel Formulas: IF(), SUMIF(), VLOOKUP() 
 
 Chart creation (bar charts, pivot charts)
 
