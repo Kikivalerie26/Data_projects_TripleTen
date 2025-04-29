@@ -3,7 +3,7 @@
 
 
 This project focuses on analyzing raw transaction logs to build a **conversion funnel** and conduct **cohort retention analysis** for an e-commerce platform.  
-It was completed as part of a junior analyst onboarding project.
+It was completed as a junior analyst onboarding project.
 
 ---
 
