@@ -1,4 +1,4 @@
-# E-commerce Project - Business Analytics Project
+# E-commerce User Metrics Project 
 
 
 This project focuses on analyzing raw transaction logs to build a **conversion funnel** and conduct **cohort retention analysis** for an e-commerce platform.  
