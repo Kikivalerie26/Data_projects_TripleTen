@@ -67,11 +67,11 @@ The analysis was built on a **joined dataset** combining three data sources:
 
 | Strategy | Details |
 |---|---|
-| 🎓 **Value-Based Campaigns (18–25)** | Bundle deals, student discounts, and subscription savings (e.g., Zomato Student Pass) |
-| 🏆 **Loyalty Programs** | Points-based rewards, cashback, and early access to deals for high-spend segments |
-| 🏢 **Occupation-Aware Marketing** | "Midday Meal" offers for professionals, "Late-Night Cravings" for students, family combos for older groups |
-| 📍 **City-Specific Strategy** | Regional challenges, referral programs, and app gamification (e.g., leaderboards for foodies in Mumbai) |
-| 🍽️ **Age-Based Restaurant Personalization** | Curated homepage feeds and push notifications based on dining preferences — premium options for older adults |
+| **Value-Based Campaigns (18–25)** | Bundle deals, student discounts, and subscription savings (e.g., Zomato Student Pass) |
+| **Loyalty Programs** | Points-based rewards, cashback, and early access to deals for high-spend segments |
+| **Occupation-Aware Marketing** | "Midday Meal" offers for professionals, "Late-Night Cravings" for students, family combos for older groups |
+| **City-Specific Strategy** | Regional challenges, referral programs, and app gamification (e.g., leaderboards for foodies in Mumbai) |
+| **Age-Based Restaurant Personalization** | Curated homepage feeds and push notifications based on dining preferences — premium options for older adults |
 
 ---
 
@@ -107,7 +107,7 @@ Zomato-Customer-Segmentation/
 
 ## 👩🏾‍💻 Author
 
-**Valerie Chimebele (Kanma)**
+  Valerie Chimebele
 Data Analyst | BI Professional | Storyteller with Data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/valerie-kiki)
