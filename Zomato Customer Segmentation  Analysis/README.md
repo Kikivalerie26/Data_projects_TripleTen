@@ -107,7 +107,7 @@ Zomato-Customer-Segmentation/
 
 ## 👩🏾‍💻 Author
 
-**Valerie Chimebele **
+Valerie Chimebele 
 Data Analyst | BI Professional | Storyteller with Data
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kikivalerie26)
